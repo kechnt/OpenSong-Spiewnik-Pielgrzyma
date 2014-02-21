@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>603. Jezu drogi, myśmy się</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2 V3</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ Jezu drogi, myśmy się
+ Słuchać słów Twych tu zebrali;
+ Nakłoń serca, byśmy Cię
+ Godnie teraz uwielbiali.
+ Wolni od powszedniej troski
+ Niech słyszymy głos Twój Boski.
+[V2]
+ Myśli nasze kryje noc,
+ Rozum błąka się w ciemności,
+ Jeśli Twego Ducha moc
+ Ich nie wiedzie do światłości.
+ Dobrą chęć i wykonanie
+ Ty w nas sprawić racz, o Panie!
+
+[V3]
+ Blasku chwały Bożej Ty,
+ Światło z Boga narodzone,
+ Spraw, by serca ku Twej czci
+ Teraz były otworzone,
+ Aby w modłach, pieniach, Panie,
+ Ciebie wielbić były w stanie.
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>498. Tak mocno głos Pasterza brzmi</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 C V2 C V3 C</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ Tak mocno głos Pasterza brzmi,
+ Głos ten niebiosa niosą mi:
+ „Owiec zbłąkanych szukam wciąż,
+ By je do stada przywieść już." 
+[C]
+ Zwijcie je, zwijcie je!
+ Niech zbłąkane nawrócą się!
+ Zwijcie je, zwijcie je,
+ Zwijcie zbłąkane do Zbawcy!
+[V2]
+ Chodźcie! — Tak woła Pasterz was
+ — Szukajcie owiec, póki czas,
+ By tor znalazły w złoty gród,
+ I nie poniosły wiecznych szkód.
+[V3]
+ Ach, głos ginących owiec słysz,
+ Pomóż je wyrwać z ciernia wzwyż;
+ I tak, jak Jezus życie dał,
+ Daj i ty wszystko — to nasz dział.
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

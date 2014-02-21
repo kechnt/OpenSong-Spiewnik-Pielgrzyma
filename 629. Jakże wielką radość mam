@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>629. Jakże wielką radość mam</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2 V3</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ Jakże wielką radość mam,
+ Że Pasterza swego znam,
+ Żem owieczką Jego włości,
+ Gdzie mię karmi, hojnie gości,
+ Ze mię kocha, dobrze zna,
+ Ustawicznie o mnie dba!
+
+[V2]
+ Pod ochroną Jego rąk 
+ Wśród kwiecistych, bujnych łąk
+ Ja przesłodką miewam paszę
+ I pragnienie swoje gaszę,
+ Bo mię wiedzie Pasterz mój
+ Tam, gdzie płynie życia zdrój.
+
+[V3]
+ O jak wielką radość mam,
+ Że Pasterza swego znam!
+ Kiedy minie życie moje,
+ Wzniesie mnie w krainy Swoje;
+ Tam anieli przyjmą mnie,
+ O jak wielkie szczęście me!
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

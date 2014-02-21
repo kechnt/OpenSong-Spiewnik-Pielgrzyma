@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>411. Pod Twą obronę, Ojcze na niebie</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ Pod Twą obronę, Ojcze na niebie,
+ Grono Twych dzieci swój powierza los;
+ Ty nam błogosław, ratuj w potrzebie
+ I broń od zguby, gdy zagraża cios!
+[V2]
+ Czy toń spokojna, czy huczą fale,
+ Ty Swoje dzieci w Swej opiece masz;
+ Wznosimy modły dziś ku Twej chwale,
+ Boś Ty nam tarczą, Boże, Ojcze nasz
+ 
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

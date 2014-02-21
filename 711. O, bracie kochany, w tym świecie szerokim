@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>711. O, bracie kochany, w tym świecie szerokim</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2 V3</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ O, bracie kochany, w tym świecie szerokim
+ Zbląkanyś w ciemności i nie wiesz, gdzie iść,
+ / I zgasł już dla ciebie promyczek światłości,
+ Nie widzisz wszak prawdy i brak ci już sił. /x2
+
+[V2]
+ Niewiarą i grzechem zakuty w kajdany,
+ Już nic cię nie cieszy, pokoju ci brak,
+ / A złość tego świata przygniata twą duszę,
+ Narzekasz i szemrzesz na życie i świat. /x2
+
+[V3]
+ Lecz spójrz na Golgotę, za ciebie nędznego
+ Umierał twój Zbawca, by pokój ci dać.
+ / On łaską Swą zbawił i ciebie grzesznego,
+ I Tobie Swą miłość do duszy chce wlać /x2
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

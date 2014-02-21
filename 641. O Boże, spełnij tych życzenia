@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>641. O Boże, spełnij tych życzenia</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ O Boże, spełnij tych życzenia,
+ Co tu w miłości łącząc się,
+ Do Ciebie wznoszą swe westchnienia 
+ I o Twą łaskę proszą Cię.
+ ich związek pobłogosław, Panie,
+ Jedności duchem Ty ich rządź;
+ O szczęście ich racz mieć staranie,
+ A w smutku ich pociechą bądź!
+
+[V2]
+ Niech serca ich tu Twój przenika
+ Miłości pełen Boski głos.
+ Kto Ciebie ma za przewodnika,
+ Ten zniesie każdy życia los;
+ Z ufnością Tobie się poddaje
+ I w pobożności zawsze trwa,
+ W miłości czynach nie ustaje
+ I pokój błogi w duszy ma.
+ 
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

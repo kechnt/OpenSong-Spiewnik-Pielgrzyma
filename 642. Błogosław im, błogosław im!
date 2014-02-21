@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>642. Błogosław im, błogosław im!</title>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2 V3</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>[V1]
+ Błogosław im, błogosław im!
+ Do Ciebie, niebios Panie,
+ Wznosimy nasze komę dziś błaganie
+ — Parze, stojącej przed obliczem Twym
+ — Błogosław im, błogosław im, błogosław im!
+
+[V2]
+ Zwycięstwo daj, zwycięstwo daj
+ W cierpieniu, w ciężkim boju,
+ I niech szukają w słowie Twym pokoju,
+ Aż dojdą celu tam w królestwie Twym.
+ — Błogosław im, błogosław im, błogosław im!
+
+[V3]
+ Swym Duchem rządź, Swym Duchem rządź
+ Ich serca, życie całe,
+ By były zawsze niezachwiane, stałe,
+ W Twej społeczności chodząc śladem Twym.
+ Błogosław im, błogosław im, błogosław im!
+ 
+ 
+ </lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
